@@ -1,3 +1,5 @@
+#![doc = include_str!("../README.md")]
+
 mod err;
 mod nsid;
 pub use err::*;
