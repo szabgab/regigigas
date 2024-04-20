@@ -5,7 +5,7 @@ edition = "2021"
 
 license = "MIT"
 description = "Registration system for game objects"
-repository = "https://www.github.com/gamma-delta/regigigas"
+repository = "https://github.com/gamma-delta/regigigas"
 keywords = ["gamedev"]
 categories = ["game-development"]
 
